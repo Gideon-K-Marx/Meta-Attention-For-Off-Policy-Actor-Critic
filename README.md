@@ -5,8 +5,8 @@ PyTorch implementation of our Neural Networks paper 'Meta Attention For Off-Poli
 If you find this work is useful in your research, please consider citing this work.
 
 Following computing infrastructure is used to produce the results: 
-python_3.6, 
-pytorch_1.4.0, 
+python==3.6, 
+pytorch==1.4.0, 
 gym==0.15.4, 
 roboschool==1.0.48. 
 
