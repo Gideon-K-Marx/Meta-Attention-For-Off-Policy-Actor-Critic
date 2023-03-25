@@ -1,6 +1,6 @@
 # Meta-Attention-For-Off-Policy-Actor-Critic
 
-PyTorch implementation of our NNeural Networks paper 'Meta Attention For Off-Policy Actor-Critic'.
+PyTorch implementation of our Neural Networks paper 'Meta Attention For Off-Policy Actor-Critic'.
 
 If you find this work is useful in your research, please consider citing this work.
 
