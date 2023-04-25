@@ -12,7 +12,7 @@ roboschool==1.0.48.
 
 The Dockerfile we used has also been uploaded.
 
-If you find this work is useful in your research, please consider citing
+If you find this work is useful in your research, please consider citing:
 
     @article{HUANG202386,
     title = {Meta attention for Off-Policy Actor-Critic},
